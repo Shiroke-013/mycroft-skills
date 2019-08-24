@@ -14,7 +14,7 @@ from mycroft.util.log import LOG
 # Each skill is contained within its own class, which inherits base methods
 # from the MycroftSkill class.  You extend this class as shown below.
 
-# TODO: Change "Antonia" to a unique name for your skill
+# TODO: Change "Template" to a unique name for your skill
 class AntoniaSkill(MycroftSkill):
 
     # The constructor of the skill, which calls MycroftSkill's constructor
